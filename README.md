@@ -1,1 +1,1 @@
-Smaple repo readme.
+repo readme.
